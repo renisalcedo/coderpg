@@ -1,0 +1,13 @@
+{
+  "name": "coderpg",
+  "version": "1.0.0",
+  "description": "A CLI game for programmers. It tracks the type of programming and associates with a role class.",
+  "main": "index.js",
+  "repository": "git@github.com:renisalcedo/coderpg.git",
+  "author": "Reynaldo Salcedo",
+  "license": "MIT",
+  "dependencies": {
+    "yargonaut": "^1.1.2",
+    "yargs": "^11.0.0"
+  }
+}
