@@ -7,8 +7,7 @@
   "author": "Reynaldo Salcedo",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.0.6",
-    "yargonaut": "^1.1.2",
-    "yargs": "^11.0.0"
+    "express": "^4.16.2",
+    "mongoose": "^5.0.6"
   }
 }
