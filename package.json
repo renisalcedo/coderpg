@@ -6,8 +6,17 @@
   "repository": "git@github.com:renisalcedo/coderpg.git",
   "author": "Reynaldo Salcedo",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "node node_modules/.bin/ava"
+  },
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "mongoose": "^5.0.6"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "supertest": "^3.0.0"
   }
 }
